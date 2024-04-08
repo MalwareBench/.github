@@ -35,7 +35,7 @@ Additional metadata such as file paths, file sizes, total number of files, packa
 
 ## Access Information
 
-Due to the presence of real-world malware, certain packages may contain sensitive information. Access to the dataset is available upon reasonable request, considering ethical considerations for usage. To request access, please email the authors, and upon evaluation of the purpose, GitHub access will be provided.
+Due to the presence of real-world malware, certain packages may contain sensitive information. Access to the dataset is available upon reasonable request, considering ethical considerations for usage. To request access, please fill out the [Google form](https://forms.gle/A5h73BrxS1qsxfaU9). For further questions or assistance, please reach out to the authors.
 
 ## Sources
 
