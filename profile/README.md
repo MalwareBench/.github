@@ -10,7 +10,7 @@ MalwareBench is a labeled dataset aimed at aiding researchers and tool developer
 
 MalwareBench includes malicious and neutral packages, each annotated with package names, versions, release types, and ground truth labels. Ground truth labels categorize packages into two groups: 
 - **Malware**: Packages designed to carry out harmful actions, posing threats to system confidentiality, integrity, or availability.
-- **Neutral**: Packages free from discovered malware.
+- **Neutral**: Packages have no known malware.
 
 Additional metadata such as file paths, file sizes, total number of files, package sizes, file extensions, and package groups are provided for each package.
 
